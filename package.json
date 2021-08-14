@@ -1,0 +1,13 @@
+{
+  "name": "swift-lang-doc-rearranged",
+  "version": "5.2.1",
+  "description": "for liliumneko",
+  "main": "index.js",
+  "repository": "https://github.com/LemonNekoGH/swift-lang-doc-rearranged.git",
+  "author": "LemonNeko <chheese048@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "vuepress": "^1.8.2"
+  }
+}
