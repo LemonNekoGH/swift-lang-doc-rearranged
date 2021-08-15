@@ -8,6 +8,7 @@
 ### to do list 要做的事情
 - [ ] 创建工程框架
 - [ ] 自定义主题
+- [ ] 编写「快速上手」部分
 - [ ] 把 [SwiftGG](https://swiftgg.gitbook.io/swift/) 的 Swift 5.2 中文文档搬过来
 - [ ] 重新排序并修改表达方式
 - [ ] 跟进官方文档 5.3 版本
